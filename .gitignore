@@ -1,1 +1,7 @@
 node_modules/
+# file start with z
+z*
+# a file called .env
+.env
+# ignores a top-level directory artefacts
+artefacts/
