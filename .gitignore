@@ -4,4 +4,4 @@ z*
 # a file called .env
 .env
 # ignores a top-level directory artefacts
-artefacts/
+./artefacts/
